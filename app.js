@@ -21,11 +21,11 @@ const filterKeys = {
 
 // Diccionario de filtros por dashboard, con los nombres que Looker espera
 const dashboards = {
-    356: { 
+    357: { 
     //   title: "Bienvenida/o al Portal Mobilize",
       filters: { Status: "Status",  Price: "Sale Price" }
     },
-    371: { 
+    367: { 
     //   title: "Ventas",
       filters: { Status: "Status", Price: "Sale Price" }
     }
